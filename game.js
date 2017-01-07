@@ -1,1 +1,1 @@
-console.log('awesome game');
+console.log('super awesome game');
